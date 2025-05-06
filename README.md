@@ -1,6 +1,6 @@
 # 🧠 ESP32-CAM Object Detection with Edge Impulse
 
-This project demonstrates real-time object detection using an **ESP32-CAM** and a model trained on **Edge Impulse**. The model identifies six object classes and runs directly on the ESP32-CAM using an exported Arduino library.
+This project demonstrates real-time object detection using an **ESP32-CAM** and a model trained on **Edge Impulse: https://studio.edgeimpulse.com/public/686200/live**. The model identifies six object classes and runs directly on the ESP32-CAM using an exported Arduino library.
 
 ## 🎯 Model Overview
 
