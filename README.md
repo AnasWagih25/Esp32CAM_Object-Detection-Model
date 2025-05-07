@@ -84,5 +84,5 @@ The model was trained on a dataset including the following classes:
 ├── METRICS.png                   # Evaluation metric screenshot
 ├── ESP32-CAM-Schematics.png     # FTDI wiring diagram
 ├── README.md                    # Project documentation
-├── <Your_Arduino_Code>.ino      # ESP32-CAM inference sketch
+├── esp32cam-model.ino      # ESP32-CAM inference sketch
 └── edge-impulse-model.zip       # Exported Arduino library
